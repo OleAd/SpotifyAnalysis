@@ -6,11 +6,11 @@ Created on Tue Apr 28 09:31:46 2020
 
 This script loads a pre-trained neural network for classifying Spotify tracks.
 The network is trained to categorize Spotify audio features into 5 times of the day:
-	0 - Late night/early morning -  03:00 to 05:00 (technically, 04:59)
-	1 - Morning - 05:00 to 11:00 (technically, 10:59)
-	2 - Afternoon - 11:00 to 19:00 (technically, 18:59)
-	3 - Evening - 19:00 to 23:00 (technically, 22:59)
-	4 - Night - 23:00 to 03:00 (technically, 02:59)
+	0 - Late night/early morning -  04:00 to 06:00 (technically, 05:59)
+	1 - Morning - 06:00 to 12:00 (technically, 11:59)
+	2 - Afternoon - 12:00 to 20:00 (technically, 19:59)
+	3 - Evening - 20:00 to 23:00 (technically, 22:59)
+	4 - Night - 23:00 to 04:00 (technically, 03:59)
 
 	
 It takes as input:
